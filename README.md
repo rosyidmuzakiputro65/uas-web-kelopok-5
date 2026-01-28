@@ -32,4 +32,4 @@ Administrator :  ("admin", "admin123",	[Full Access Users, Data Student, Reports
 
 Muhafidz :  ("rosyid1", "rosyid1233", [Inventory, Daily Reports])
 
-Dosen :  ("g", "password123",	[Monitoring, View Inventory])
+Dosen :  ("g", "123",	[Monitoring, View Inventory])
