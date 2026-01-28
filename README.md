@@ -27,6 +27,9 @@ Cetak laporan
 Use these accounts to test the Role-Based Access Control (RBAC):
 
 ex = (Role :	"Username",	"Password",	"Access")
+
 Administrator :  ("admin", "admin123",	[Full Access Users, Data Student, Reports])
+
 Muhafidz :  ("rosyid1", "rosyid1233", [Inventory, Daily Reports])
+
 Dosen :  ("g", "password123",	[Monitoring, View Inventory])
